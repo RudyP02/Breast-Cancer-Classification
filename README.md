@@ -1,4 +1,4 @@
-# Breast-Cancer-Prediction
+# Breast-Cancer-Classification
 Each year number of deaths is increasing
 extremely because of breast cancer. It is the most frequent type of
 all cancers and the major cause of death in women worldwide. Any
